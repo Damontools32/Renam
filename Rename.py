@@ -1,7 +1,7 @@
 import os
 
 # مسیر فولدر اصلی
-base_dir = '/content/downloads'
+base_dir = '/root/downloads'
 
 # تابع برای تغییر نام فایل‌ها و فولدرها و اضافه کردن نام مورد نظر به ابتدا و محدودیت تعداد کاراکتر به ۳۰
 def rename_files_and_folders(folder_path):
